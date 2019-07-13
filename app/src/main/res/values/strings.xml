@@ -9,4 +9,5 @@
     <string name="titulo">Agregar Persona</string>
     <string name="Agregar">Agregar</string>
     <string name="Limpiar">Limpiar</string>
+    <string name="mensaje">Persona agregada exitosamente</string>
 </resources>

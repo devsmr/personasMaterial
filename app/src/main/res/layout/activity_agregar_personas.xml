@@ -47,6 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
 
+            android:onClick="guardar"
             android:text="@string/Agregar" />
 
         <Button
@@ -56,6 +57,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
 
+            android:onClick="limpiar"
             android:text="@string/Limpiar" />
     </LinearLayout>
 </LinearLayout>
