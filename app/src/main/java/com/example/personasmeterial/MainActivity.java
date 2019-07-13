@@ -18,6 +18,13 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        //crear las personas
+        //String id, int foto, String nombre, String apellido
+       // Persona p = new Persona("per1",0,"leandro","gut");
+        //p.eliminar();
+
+
+
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override

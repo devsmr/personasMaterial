@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class Datos {
 
-    private static String db = "Personas"
+    private static String db = "Personas";
 
     //conectar con la base de datos remota con la base de datos personas que está en el firebase
     private static DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference();
