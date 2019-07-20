@@ -10,4 +10,6 @@
     <string name="Agregar">Agregar</string>
     <string name="Limpiar">Limpiar</string>
     <string name="mensaje">Persona agregada exitosamente</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="txtTitulo">Detalle de la Persona</string>
 </resources>
